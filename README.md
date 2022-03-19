@@ -11,4 +11,4 @@ The small files are in a gzipped tar file which can be extracted using
 Files:
 
  - `make_many_small_files.sh` = bash script to generate many small files, for reference
- - `many_small_files.tgz` = tar file of many small files, currently 2000
+ - `many_small_files.tgz` = gzipped tar file of many small files, currently 2000
